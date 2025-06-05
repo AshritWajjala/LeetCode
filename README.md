@@ -1,4 +1,4 @@
-# 🧩 LeetCode Practice – Ashrit Wajjala
+# 🧩 LeetCode Practice 
 
 This repository contains my daily solutions to LeetCode problems as part of my data structures and algorithms (DSA) practice.
 
